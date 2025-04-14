@@ -12,6 +12,6 @@ A readmissão hospitalar é uma das principais preocupações no tratamento do d
 
 A necessidade de readmissão indica que cuidados inadequados foram fornecidos ao paciente no momento da primeira admissão. A taxa de readmissão se tornou uma métrica importante para medir a qualidade geral de um hospital.
 
-Como analista de dados principal da organização (hospital, clínica ou operadora de plano de saúde), seu trabalho é identificar os pacientes diabéticos de alto risco por meio de estratificação de risco de registros médicos eletrônicos.Usaremos registros eletrônicos de dados médicos, como resultados dos exames, nível de insulina, diagnóstico de outras doenças, etc.
+Como analista de dados principal da organização (hospital, clínica ou operadora de plano de saúde), seu trabalho é identificar os pacientes diabéticos de alto risco por meio de estratificação de risco de registros médicos eletrônicos. Usaremos registros eletrônicos de dados médicos, como resultados dos exames, nível de insulina, diagnóstico de outras doenças, etc.
 
 Será necessário um extenso trabalho de engenharia de atributos. Vamos justificar todas as nossas escolhas durante o desenvolvimento do projeto e entregar o resultado da nossa análise através de diversos gráficos.
